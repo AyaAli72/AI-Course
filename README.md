@@ -1,4 +1,4 @@
-# 🤖 AI Course – Machine Learning & Deep Learning Projects
+#  AI Course – Machine Learning & Deep Learning Projects
 
 This repository contains a collection of hands-on Artificial Intelligence and Machine Learning projects developed as part of an AI course. The projects focus on applying theoretical AI concepts to real-world problem-solving scenarios, covering the complete machine learning lifecycle from data preprocessing to model evaluation and optimization.
 
@@ -24,14 +24,6 @@ The repository includes practical implementations of supervised machine learning
   - Pandas  
   - NumPy  
   - Matplotlib  
-
-## 📂 Repository Structure
-
-AI-Course/
-│── notebooks/               
-│── models/                  
-│── scripts/                  
-│── README.md  
 
 ## 🚀 Learning Outcomes
 
