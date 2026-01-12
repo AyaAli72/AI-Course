@@ -28,9 +28,9 @@ The repository includes practical implementations of supervised machine learning
 ## 📂 Repository Structure
 
 AI-Course/
-│── notebooks/           # Jupyter notebooks for experimentation  
-│── models/              # Trained models and pipelines  
-│── scripts/             # Python scripts for training and evaluation  
+│── notebooks/               # Jupyter notebooks for experimentation  
+│── models/                  # Trained models and pipelines  
+│── scripts/                 # Python scripts for training and evaluation  
 │── README.md  
 
 ## 🚀 Learning Outcomes
