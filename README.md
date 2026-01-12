@@ -2,11 +2,11 @@
 
 This repository contains a collection of hands-on Artificial Intelligence and Machine Learning projects developed as part of an AI course. The projects focus on applying theoretical AI concepts to real-world problem-solving scenarios, covering the complete machine learning lifecycle from data preprocessing to model evaluation and optimization.
 
-## 📌 Project Overview
+##  Project Overview
 
 The repository includes practical implementations of supervised machine learning algorithms, text classification tasks, and experiments on real-world datasets. Emphasis is placed on model performance analysis, evaluation metrics, and optimization techniques.
 
-## 🧠 Key Topics Covered
+## Key Topics Covered
 
 - Data Cleaning and Preprocessing  
 - Feature Engineering  
@@ -15,7 +15,7 @@ The repository includes practical implementations of supervised machine learning
 - Model Training, Evaluation, and Optimization  
 - Performance Metrics (Accuracy, Precision, Recall, F1-score)  
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - Programming Language: Python  
 - Libraries and Frameworks:  
@@ -25,19 +25,19 @@ The repository includes practical implementations of supervised machine learning
   - NumPy  
   - Matplotlib  
 
-## 🚀 Learning Outcomes
+##  Learning Outcomes
 
 - Built end-to-end machine learning pipelines  
 - Applied AI concepts to real-world datasets  
 - Evaluated and optimized model performance  
 - Gained practical experience with industry-standard AI tools  
 
-## 👩‍💻 Author
+##  Author
 
 Aya Ali  
 Junior AI / Software Engineer  
 GitHub: https://github.com/AyaAli72  
 
-## 📄 License
+##  License
 
 This repository is intended for educational and learning purposes.
